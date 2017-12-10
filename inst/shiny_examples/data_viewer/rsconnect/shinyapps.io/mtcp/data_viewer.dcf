@@ -1,0 +1,12 @@
+name: data_viewer
+title: data_viewer
+username:
+account: mtcp
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 246801
+bundleId: 1126125
+url: https://mtcp.shinyapps.io/data_viewer/
+when: 1512910609.77563
+asMultiple: FALSE
+asStatic: FALSE
